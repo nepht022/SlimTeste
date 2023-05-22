@@ -9,3 +9,12 @@
 <div align="center"><img src="./img/Slim2-Access-Preview.png"></div>
 
 
+## Ferramentas
+
+- HTML
+- PHP
+- MySql
+- Slim-Framework
+- Postman
+- Git
+- Github
